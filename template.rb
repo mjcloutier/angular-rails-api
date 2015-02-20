@@ -2,8 +2,6 @@ gem 'jbuilder'
 
 gem_group :development, :test do
   gem 'rspec-rails'
-  gem 'jazz_hands'
-  gem 'spring'
 end
 
 generate 'rspec:install'
